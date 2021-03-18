@@ -1,7 +1,3 @@
-
-
-![STONKS!](https://media2.giphy.com/media/YnkMcHgNIMW4Yfmjxr/giphy.gif)
-
 ### :bar_chart: Minha atividade no github:
 <div>
     <a href="https://github.com/miguelchiarello?tab=repositories">
