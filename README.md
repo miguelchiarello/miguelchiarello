@@ -3,9 +3,9 @@
     <a href="https://github.com/miguelchiarello?tab=repositories">
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelchiarello&layout=compact&theme=dracula" width="400" height="200"/>
     </a>
-    <a href="https://github.com/miguelchiarello?tab=repositories">
+<!--    <a href="https://github.com/miguelchiarello?tab=repositories">
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=miguelchiarello&,issues&show_icons=true&layout=compact&theme=dracula" width="400" height="200"/>
-    </a>
+    </a>-->
 </div>
 
 <!--
