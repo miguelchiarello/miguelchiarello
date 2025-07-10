@@ -6,10 +6,12 @@
 </p>
 
 ###
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelchiarello&theme=material_palenight)
+
 <div>
   <img src="https://streak-stats.demolab.com?user=miguelchiarello&mode=weekly&theme=material-palenight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelchiarello&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+![](https://github-profile-trophy.vercel.app/?username=miguelchiarello&theme=nord&no-frame=true&margin-w=10&margin-h=10&rank=-C,?,-?,-B)
 
 ###
