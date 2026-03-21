@@ -12,7 +12,7 @@
       <h2>Build</h2>
       <ul>
         <li>Mobile applications with Flutter</li>
-        <li>Web platforms using React and Astro</li>
+        <li>Web platforms using React and landing pages with Astro</li>
         <li>Product ecosystems and marketplace systems</li>
         <li>Real-time features and user-facing systems</li>
       </ul>
