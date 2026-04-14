@@ -11,8 +11,8 @@
       </p>
       <h2>Build</h2>
       <ul>
-        <li>Mobile applications with Flutter</li>
-        <li>Web platforms using React and landing pages with Astro</li>
+        <li>Mobile applications and Web platforms with Flutter</li>
+        <li>Landing pages with Astro</li>
         <li>Product ecosystems and marketplace systems</li>
         <li>Real-time features and user-facing systems</li>
       </ul>
@@ -27,7 +27,6 @@
       </ul>
       <h2>Socials</h2>
       <ul>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/miguel-chiarello-fernandes">Miguel Chiarello Fernandes</a></li>
         <!-- <li>Website: <a href="https://miguelchiarello.github.io">https://miguelchiarello.github.io</a></li> -->
         <li>Telegram: @miguelchiarello</li>
         <li>Discord: snakebr</li>
